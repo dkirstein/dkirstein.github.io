@@ -1,0 +1,12 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    {%- if site.author %}
+        {% if site.author.name and site.author.email -%}
+          <div>{{ site.author.name | escape }}
+          <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><div>
+        {%- endif %}
+    {%- endif %}
+  </div>
+</footer>

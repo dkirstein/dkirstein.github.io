@@ -1,0 +1,41 @@
+
+title: Dominik Kirstein
+author:
+  name: Dominik Kirstein
+  email: kirstein@math.uni-bonn.de
+  university: University of Bonn
+  department: Mathematical Institute
+  street: Endenicher Allee 60
+  city: 53115 Bonn
+  office: Room 3.022
+
+description: >-
+  I am a PhD student at the University of Bonn and the Max Planck Institute for Mathematics.
+  My research interests lie in algebraic and geometric topology.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+theme: minima
+
+#Collections
+collections:
+    courses:
+      output: true
+
+# Markdown and syntax highlight
+# markdown: kramdown
+# highlighter: rouge
+# kramdown:
+#   input: GFM
+#   syntax_highlighter_opts:
+#     css_class: 'highlight'
+#     span:
+#       line_numbers: false
+#     block:
+#       line_numbers: false
+#       start_line: 1
+
+plugins:
+  - jekyll-feed

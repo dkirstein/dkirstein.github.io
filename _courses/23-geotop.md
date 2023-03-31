@@ -10,9 +10,8 @@ term: Summer 23
 
 **Vorlesungen**: Di 12:15-14:00, Do 10:15-14:00, Großer Hörsaal, Wegelerstraße 10
 
-Material zur Vorlesung wird mit der Zeit auf [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_2983237.html) zu finden sein.
-Dort findet auch die Einteilung in die Übungsgruppen statt.
-Tretet dazu einfach auf eCampus einer der Übungsgruppen bei.
+Die Einteilung der Übungsgruppen findet über [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_2983237.html) statt.
+Tretet dort einfach einer der Übungsgruppen bei.
 
 # Inhalt
 

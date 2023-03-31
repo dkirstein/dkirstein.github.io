@@ -10,6 +10,10 @@ term: Summer 23
 
 **Vorlesungen**: Di 12:15-14:00, Do 10:15-14:00, Großer Hörsaal, Wegelerstraße 10
 
+Material zur Vorlesung wird mit der Zeit auf [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_2983237.html) zu finden sein.
+Dort findet auch die Einteilung in die Übungsgruppen statt.
+Tretet dazu einfach auf eCampus einer der Übungsgruppen bei.
+
 # Inhalt
 
 Diese Vorlesung ist der Beginn eines 5-teiligen Zyklus zur Topologie.
@@ -70,10 +74,10 @@ Für die Zulassung zur Klausur muss man einmal in den Übungen vorgerechnet und 
 
 Es gibt 7 Übungsgruppen, die alle im SemR 0.011 stattfinden
 
-|Mo 10-12| Christian|
+|Mo 10-12| Heiko    |
 |Di 8-10 | Simona   |
-|Mi 8-10 | Lucas    |
+|Mi 8-10 | Christian|
 |Mi 10-12| Andrea   |
 |Mi 12-14| Qi       |
-|Do 8-10 | Heiko    |
+|Do 8-10 | Lucas    |
 |Fr 8-10 | Tim      |

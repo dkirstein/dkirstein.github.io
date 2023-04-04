@@ -8,7 +8,7 @@ term: Summer 23
 
 **Assistent**: [Dominik Kirstein](https://dkirstein.github.io)
 
-**Vorlesungen**: Di 12:15-14:00, Do 10:15-14:00, Großer Hörsaal, Wegelerstraße 10
+**Vorlesungen**: Di 12:15-14:00, Do 10:15-12:00, Großer Hörsaal, Wegelerstraße 10
 
 Die Einteilung der Übungsgruppen findet über [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_2983237.html) statt.
 Tretet dort einfach einer der Übungsgruppen bei.

@@ -13,6 +13,8 @@ term: Summer 23
 Die Einteilung der Übungsgruppen findet über [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_2983237.html) statt.
 Tretet dort einfach einer der Übungsgruppen bei.
 
+Qi ist so nett und teilt seine [Vorlesungsmitschrift](https://uni-bonn.sciebo.de/s/DUa2VI46sJb9ocf) (ohne Gewähr auf Korrektheit und Vollständigkeit).
+
 # Inhalt
 
 Diese Vorlesung ist der Beginn eines 5-teiligen Zyklus zur Topologie.

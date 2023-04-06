@@ -84,4 +84,4 @@ Es gibt 7 Übungsgruppen, die alle im SemR 0.011 stattfinden
 Die Übungsblätter können in Gruppen von bis zu drei Studierenden abgegeben werden.
 Die Abgabe erfolgt wie mit den Tutoren besprochen immer Donnerstags in der Vorlesung oder online.
 
- - [Blatt 1]({{server.url}}/_pdfs/Blatt1.pdf)
+ - [Blatt 1]({{site.url}}{{site.baseurl}}/pdfs/Blatt1.pdf)

@@ -69,7 +69,7 @@ Die erste Klausur findent am 20.07.23 von 9 bis 11 Uhr statt. Die zweite Klausur
 
 Für die Zulassung zur Klausur muss man einmal in den Übungen vorgerechnet und 50 Prozent der möglichen Punkte der Übungsaufgaben erreicht haben.
 
-# Übungsgruppen
+# Übungen
 
 Es gibt 7 Übungsgruppen, die alle im SemR 0.011 stattfinden
 
@@ -80,3 +80,8 @@ Es gibt 7 Übungsgruppen, die alle im SemR 0.011 stattfinden
 |Mi 12-14| Qi       |
 |Do 8-10 | Lucas    |
 |Fr 8-10 | Tim      |
+
+Die Übungsblätter können in Gruppen von bis zu drei Studierenden abgegeben werden.
+Die Abgabe erfolgt wie mit den Tutoren besprochen immer Donnerstags in der Vorlesung oder online.
+
+ - [Blatt 1]({{server.url}}/_pdfs/Blatt1.pdf)

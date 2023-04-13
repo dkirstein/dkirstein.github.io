@@ -10,10 +10,14 @@ term: Summer 23
 
 **Vorlesungen**: Di 12:15-14:00, Do 10:15-12:00, Großer Hörsaal, Wegelerstraße 10
 
-Die Einteilung der Übungsgruppen findet über [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_2983237.html) statt.
-Tretet dort einfach einer der Übungsgruppen bei.
+<!---  Die Einteilung der Übungsgruppen findet über [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_2983237.html) statt.
+Tretet dort einfach einer der Übungsgruppen bei.-->
 
 Qi ist so nett und teilt seine [Vorlesungsmitschrift](https://uni-bonn.sciebo.de/s/DUa2VI46sJb9ocf) (ohne Gewähr auf Korrektheit und Vollständigkeit).
+
+Tim Lichtnau und Jonathan Wassermann organisieren eine Lesegruppe zur Einführung in die Kategorientheorie.
+Diese findet immer Freitags von 16 bis 18 Uhr im Zeichensaal statt.
+Wer Interesse hat, soll dort einfach vorbeischauen.
 
 # Inhalt
 

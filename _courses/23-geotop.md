@@ -96,4 +96,4 @@ Die Abgabe erfolgt wie mit den Tutoren besprochen immer Donnerstags in der Vorle
  - [Blatt 4]({{site.url}}{{site.baseurl}}/pdfs/Blatt4.pdf)
  - [Blatt 5]({{site.url}}{{site.baseurl}}/pdfs/Blatt5.pdf)
  - [Blatt 6]({{site.url}}{{site.baseurl}}/pdfs/Blatt6.pdf) (Tippfehler korrigiert)
- - [Blatt 7]({{site.url}}{{site.baseurl}}/pdfs/Blatt07.pdf)
+ - [Blatt 7]({{site.url}}{{site.baseurl}}/pdfs/Blatt07.pdf) (Korrektur: $\vee$ durch $\times$ ersetzt in Aufgabe 28)

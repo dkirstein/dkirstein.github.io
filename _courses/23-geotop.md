@@ -98,3 +98,4 @@ Die Abgabe erfolgt wie mit den Tutoren besprochen immer Donnerstags in der Vorle
  - [Blatt 6]({{site.url}}{{site.baseurl}}/pdfs/Blatt6.pdf) (Tippfehler korrigiert)
  - [Blatt 7]({{site.url}}{{site.baseurl}}/pdfs/Blatt07.pdf) (Korrektur: $\vee$ durch $\times$ ersetzt in Aufgabe 28)
  - [Blatt 8]({{site.url}}{{site.baseurl}}/pdfs/Blatt08.pdf)
+ - [Blatt 9]({{site.url}}{{site.baseurl}}/pdfs/Blatt09.pdf)

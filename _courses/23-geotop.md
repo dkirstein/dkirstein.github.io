@@ -15,9 +15,14 @@ Tretet dort einfach einer der Übungsgruppen bei.-->
 
 Qi ist so nett und teilt seine [Vorlesungsmitschrift](https://uni-bonn.sciebo.de/s/DUa2VI46sJb9ocf) (ohne Gewähr auf Korrektheit und Vollständigkeit).
 
-Tim Lichtnau und Jonathan Wassermann organisieren eine Lesegruppe zur Einführung in die Kategorientheorie.
-Diese findet immer Freitags von 16 bis 18 Uhr im Zeichensaal statt.
-Wer Interesse hat, soll dort einfach vorbeischauen.
+# Klausur
+
+Die erste Klausur findet am 20.07.23 von 9 bis 11 Uhr im Wolfgang-Paul-Hörsaal (Kreuzbergweg 28) statt.
+Zur Klausur darf ein doppelseitig per Hand beschriebener DinA4-Zettel mit Notizen mitgebracht werden. Weitere Hilfsmittel sind nicht erlaubt.
+
+Die zweite Klausur findet am 13.09.23 von 9 bis 11 Uhr statt.
+
+Für die Zulassung zur Klausur muss man einmal in den Übungen vorgerechnet und 50 Prozent der möglichen Punkte der Übungsaufgaben erreicht haben.
 
 # Inhalt
 
@@ -68,12 +73,6 @@ Folgende Bücher werden empfohlen:
  - tom Dieck, Algebraic Topology
 
 aber es gibt noch viele weitere gute Literatur.
-
-# Klausur
-
-Die erste Klausur findent am 20.07.23 von 9 bis 11 Uhr statt. Die zweite Klausur findet am 13.09.23 von 9 bis 11 Uhr statt.
-
-Für die Zulassung zur Klausur muss man einmal in den Übungen vorgerechnet und 50 Prozent der möglichen Punkte der Übungsaufgaben erreicht haben.
 
 # Übungen
 

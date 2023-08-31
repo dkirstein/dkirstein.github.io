@@ -17,10 +17,12 @@ Qi ist so nett und teilt seine [Vorlesungsmitschrift](https://uni-bonn.sciebo.de
 
 # Klausur
 
-Die erste Klausur findet am 20.07.23 von 9 bis 11 Uhr im Wolfgang-Paul-Hörsaal (Kreuzbergweg 28) statt.
+Der Haupttermin findet am 20.07.23 von 9 bis 11 Uhr im Wolfgang-Paul-Hörsaal (Kreuzbergweg 28) statt.
 Zur Klausur darf ein doppelseitig per Hand beschriebener DinA4-Zettel mit Notizen mitgebracht werden. Weitere Hilfsmittel sind nicht erlaubt.
 
-Die zweite Klausur findet am 13.09.23 von 9 bis 11 Uhr statt.
+Der Nachtermin findet am 13.09.23 von 9 bis 11 Uhr im kleinen Hörsaal (Wegelerstraße 10) statt.
+Zur Klausur darf ein doppelseitig per Hand beschriebener DinA4-Zettel mit Notizen mitgebracht werden. Weitere Hilfsmittel sind nicht erlaubt.
+Die Einsicht zum Nachtermin ist am 14.09. von 11 bis 12 Uhr in Raum 3.016.
 
 Für die Zulassung zur Klausur muss man einmal in den Übungen vorgerechnet und 50 Prozent der möglichen Punkte der Übungsaufgaben erreicht haben.
 

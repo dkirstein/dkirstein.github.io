@@ -4,7 +4,7 @@ title: Einführung in die Topologie und Geometrie
 term: Summer 23
 ---
 
-**Dozent**: [Wolfgang Lück](https://www.him.uni-bonn.de/lueck/)
+**Dozent**: [Wolfgang Lück](https://him-lueck.uni-bonn.de/)
 
 **Assistent**: [Dominik Kirstein](https://dkirstein.github.io)
 

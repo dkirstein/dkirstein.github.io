@@ -36,6 +36,8 @@ There will be oral exams at the end of the course.
 The first round is scheduled for January 27 - February 7 and the second round for March 17 - March 21.
 
 # Exercises
+**Registration for the exercise groups will take place during the first week of lectures.**
+
 There will be weekly exercise sheets, which the students can submit teams of at most three.
 The solutions will partially be discussed in the tutorials.
 To be admitted to the final exam, students have to get at least 50% of possible points on the exercise sheets and sucessfully present the solution to one of the exercises in the tutorial.

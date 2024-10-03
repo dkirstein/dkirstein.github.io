@@ -8,7 +8,9 @@ term: Winter 24/25
 
 **Assistent**: [Dominik Kirstein](https://dkirstein.github.io)
 
-**Lectures**: Mo 14:15-16:00 - Kleiner Hörsaal; We 8:15-10:00 - Zeichensaal
+**Time and Place**: Mo 14:15-16:00 - Kleiner Hörsaal; We 8:15-10:00 - Zeichensaal
+
+There are [lecture notes](https://him-lueck.uni-bonn.de/data/script_AlgTOP_I_www.pdf) for the course
 
 # Content
 This lecture course is the fourth in a series of five lecture courses on (algebraic) topology.
@@ -41,3 +43,5 @@ The first round is scheduled for January 27 - February 7 and the second round fo
 There will be weekly exercise sheets, which the students can submit teams of at most three.
 The solutions will partially be discussed in the tutorials.
 To be admitted to the final exam, students have to get at least 50% of possible points on the exercise sheets and sucessfully present the solution to one of the exercises in the tutorial.
+
+ - [Sheet 1]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet1.pdf)

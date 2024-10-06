@@ -10,7 +10,9 @@ term: Winter 24/25
 
 **Time and Place**: Mo 14:15-16:00 - Kleiner Hörsaal; We 8:15-10:00 - Zeichensaal
 
-There are [lecture notes](https://him-lueck.uni-bonn.de/data/script_AlgTOP_I_www.pdf) for the course
+There are [lecture notes](https://him-lueck.uni-bonn.de/data/script_AlgTOP_I_www.pdf) for the course.
+
+**To sign up for the exercise groups, simply join one of the exercise groups on [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_3517151.html).**
 
 # Content
 This lecture course is the fourth in a series of five lecture courses on (algebraic) topology.
@@ -38,7 +40,6 @@ There will be oral exams at the end of the course.
 The first round is scheduled for January 27 - February 7 and the second round for March 17 - March 21.
 
 # Exercises
-**Registration for the exercise groups will take place during the first week of lectures.**
 
 There will be weekly exercise sheets, which the students can submit teams of at most three.
 The solutions will partially be discussed in the tutorials.

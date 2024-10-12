@@ -46,3 +46,4 @@ The solutions will partially be discussed in the tutorials.
 To be admitted to the final exam, students have to get at least 50% of possible points on the exercise sheets and sucessfully present the solution to one of the exercises in the tutorial.
 
  - [Sheet 1]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet1.pdf)
+ - [Sheet 2]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet2.pdf)

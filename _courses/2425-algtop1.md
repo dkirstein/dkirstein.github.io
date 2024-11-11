@@ -50,3 +50,4 @@ To be admitted to the final exam, students have to get at least 50% of possible 
  - [Sheet 3]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet3.pdf)
  - [Sheet 4]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet4.pdf)
  - [Sheet 5]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet5.pdf)
+ - [Sheet 6]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet6.pdf)

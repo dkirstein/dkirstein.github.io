@@ -12,8 +12,6 @@ term: Winter 24/25
 
 There are [lecture notes](https://him-lueck.uni-bonn.de/data/script_AlgTOP_I_www.pdf) for the course.
 
-**Registration for the exercise groups is possible until Friday 11.10.24, 20:00. To sign up, simply join one of the exercise groups on [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_3517151.html).**
-
 # Content
 This lecture course is the fourth in a series of five lecture courses on (algebraic) topology.
 It essentially is an introduction to homotopy theory.
@@ -56,3 +54,7 @@ To be admitted to the final exam, students have to get at least 50% of possible 
  - [Sheet 9]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet9.pdf)
  - [Sheet 10]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet10.pdf) (Exercise 37 was stated incorrectly in the original version)
  - [Sheet 11]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet11.pdf)
+ - [Sheet 12]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/2425_AlgTop1_sheet12.pdf)
+
+
+The tutors created the following unofficial [list of questions]({{site.url}}{{site.baseurl}}/pdfs/2425_AlgTop1/questions.pdf) to revise parts of the material of the course.

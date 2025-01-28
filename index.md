@@ -9,7 +9,7 @@ I am also intersted in $L^2$-invariants.
 
 <br />
 
-Together with Tobi Barthel, Kaif Hilman and Jonas McCandless I am organising a workshop on [Dualisable Categories & Continuous K-Theory](https://www.mpim-bonn.mpg.de/dualcat2024) at the MPI in Bonn, September 9-13, 2024.
+Together with Tobi Barthel, Kaif Hilman and Jonas McCandless I organised a workshop on [Dualisable Categories & Continuous K-Theory](https://www.mpim-bonn.mpg.de/dualcat2024), which took place September 9-13, 2024, at MPI Bonn.
 
 <br />
 

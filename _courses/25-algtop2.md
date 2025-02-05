@@ -33,7 +33,7 @@ We will provide [lecture notes](https://him-lueck.uni-bonn.de/data/script_AlgTop
 
 # Exams
 There will be oral exams at the end of the course.
-The first round is scheduled for July 14 - July 18 and the second round for August 18 - August 21.
+The first round is scheduled for July 14 - July 24 and the second round for August 19 - August 22.
 
 # Exercises
 There will be weekly exercise sheets, which the students can submit in teams of at most three.

@@ -10,7 +10,7 @@ term: Winter 24/25
 
 **Time and Place**: Mo 14:15-16:00 - Kleiner Hörsaal; We 8:15-10:00 - Zeichensaal
 
-There are [lecture notes](https://him-lueck.uni-bonn.de/data/script_AlgTOP_I_www.pdf) for the course.
+There are [lecture notes](https://him-lueck.uni-bonn.de/data/script_AlgTop_www.pdf) for the course. We covered the chapters 1-16.
 
 # Content
 This lecture course is the fourth in a series of five lecture courses on (algebraic) topology.

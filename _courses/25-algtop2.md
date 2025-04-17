@@ -44,3 +44,4 @@ You can sign up for the exercise groups on [eCampus](https://ecampus.uni-bonn.de
 
  - [Sheet 1]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet01.pdf)
  - [Sheet 2]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet02.pdf)
+ - [Sheet 3]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet03.pdf)

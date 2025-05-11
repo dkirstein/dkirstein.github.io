@@ -40,10 +40,9 @@ There will be weekly exercise sheets, which the students can submit in teams of 
 The solutions will partially be discussed in the tutorials.
 To be admitted to the final exam, students have to collect at least 50% of possible points on the exercise sheets and sucessfully present the solution to one of the exercises in the tutorial.
 
-You can sign up for the exercise groups on [eCampus](https://ecampus.uni-bonn.de/goto_ecampus_crs_3666791.html).
-
  - [Sheet 1]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet01.pdf)
  - [Sheet 2]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet02.pdf)
  - [Sheet 3]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet03.pdf) (Changed dimension bound in exercise 10)
  - [Sheet 4]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet04.pdf)
  - [Sheet 5]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet05.pdf)
+ - [Sheet 6]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet06.pdf)

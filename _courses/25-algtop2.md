@@ -46,3 +46,4 @@ To be admitted to the final exam, students have to collect at least 50% of possi
  - [Sheet 4]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet04.pdf)
  - [Sheet 5]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet05.pdf)
  - [Sheet 6]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet06.pdf)
+ - [Sheet 7]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet07.pdf)

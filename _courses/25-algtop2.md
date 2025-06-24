@@ -29,7 +29,7 @@ We will not be following a specific book. There are many good sources, e.g.:
 - Weibel: *An introduction to homological algebra*
 - Whitehead: *Elements of homotopy theory*
 
-We will provide [lecture notes](https://him-lueck.uni-bonn.de/data/script_AlgTop_www.pdf) for the course.
+We will provide [lecture notes](https://him-lueck.uni-bonn.de/data/script_AlgTop.pdf) for the course.
 
 # Exams
 There will be oral exams at the end of the course.

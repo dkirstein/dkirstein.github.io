@@ -10,6 +10,8 @@ term: Summer 25
 
 **Time and Place**: Mo 10:15-12:00 - Kleiner Hörsaal; We 8:15-10:00 - Kleiner Hörsaal
 
+**If you want to take the exam, you have to register for the problem session and the exam on basis and also fill out the exam date survey on ecampus until 04.07.25.**
+
 # Content
 This lecture course is the last part of a series of five lecture courses about topology.
 It will cover the following topics with emphasis on the third one:
@@ -35,6 +37,8 @@ We will provide [lecture notes](https://him-lueck.uni-bonn.de/data/script_AlgTop
 There will be oral exams at the end of the course.
 The first round is scheduled for July 14 - July 24 and the second round for August 19 - August 22.
 
+
+
 # Exercises
 There will be weekly exercise sheets, which the students can submit in teams of at most three.
 The solutions will partially be discussed in the tutorials.
@@ -51,3 +55,4 @@ To be admitted to the final exam, students have to collect at least 50% of possi
  - [Sheet 9]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet09.pdf)
  - [Sheet 10]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet10.pdf)
  - [Sheet 11]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet11.pdf)
+ - [Sheet 12]({{site.url}}{{site.baseurl}}/pdfs/25_AlgTop2/sheet12.pdf)

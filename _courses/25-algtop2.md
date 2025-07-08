@@ -10,7 +10,7 @@ term: Summer 25
 
 **Time and Place**: Mo 10:15-12:00 - Kleiner Hörsaal; We 8:15-10:00 - Kleiner Hörsaal
 
-**If you want to take the exam, you have to register for the problem session and the exam on basis and also fill out the exam date survey on ecampus until 04.07.25.**
+**You can find the exam dates for the first round of exams on eCampus**
 
 # Content
 This lecture course is the last part of a series of five lecture courses about topology.

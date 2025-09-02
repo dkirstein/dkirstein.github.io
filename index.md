@@ -1,15 +1,11 @@
 ---
 layout: page
 ---
-I am a PhD student at the University of Bonn and the Max Planck Institute for Mathematics. My advisor is [Wolfgang Lück](https://him-lueck.uni-bonn.de/).
+Starting in October 2025, I will be a postdoc at LMU Munich in the research group of [Markus Land](https://www.markus-land.de/).
+Before that, I completed my PhD at the University of Bonn and the Max Planck Institute for Mathematics, working under the supervision [Wolfgang Lück](https://him-lueck.uni-bonn.de/).
 
-My research interests lie in algebraic and geometric topology and homotopy theory.
-More specifically, I am thinking about algebraic $ K $- and $ L $-theory, equivariant homotopy theory and their interplay with the topology of manifolds.
-I am also intersted in $L^2$-invariants.
-
-<br />
-
-Together with Tobi Barthel, Kaif Hilman and Jonas McCandless I organised a workshop on [Dualisable Categories & Continuous K-Theory](https://www.mpim-bonn.mpg.de/dualcat2024), which took place September 9-13, 2024, at MPI Bonn.
+My research interests lie in homotopy theory and geometric topology.
+More specifically, I am working on algebraic $K$- and $L$-theory as well as moduli of (equivariant) manifolds.
 
 <br />
 

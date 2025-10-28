@@ -4,6 +4,8 @@ title: research
 ---
 # publications and preprints
 
+D. Kirstein and C. Kremer, *A twisted Bass-Heller-Swan decomposition for localising invariants*, [arXiv:2510.23318](https://arxiv.org/abs/2510.23318)
+
 A. Bianchi, K. Hilman, D. Kirstein and C. Kremer, *Poincaré Duality Pairs of $\infty$-Categories*, [arXiv:2510.20646](https://arxiv.org/abs/2510.20646)
 
 D. Kirstein and C. Kremer, *A twisted Bass-Heller-Swan decomposition for localising invariants*, [arXiv:2410.22877](https://arxiv.org/abs/2410.22877)
